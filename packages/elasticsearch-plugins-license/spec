@@ -1,0 +1,5 @@
+---
+name: elasticsearch-plugins-license
+dependencies: []
+files:
+  - elasticsearch-plugins-license/license-2.3.5.zip

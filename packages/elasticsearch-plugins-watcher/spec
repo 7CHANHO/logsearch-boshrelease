@@ -1,0 +1,5 @@
+---
+name: elasticsearch-plugins-watcher
+dependencies: []
+files:
+  - elasticsearch-plugins-watcher/watcher-2.3.5.zip
