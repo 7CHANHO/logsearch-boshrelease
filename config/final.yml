@@ -1,6 +1,6 @@
 ---
 blobstore:
-  provider: s3
+  provider: local
   options:
-    bucket_name: logsearch-release-blobs
+    blobstore_path: /path/logsearch-boshrelease/blobs
 final_name: logsearch

@@ -1,0 +1,6 @@
+---
+name: elasticsearch-plugins-license
+dependencies: []
+# Download from https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/license/2.3.5/license-2.3.5.zip
+files:
+  - elasticsearch-plugins-license/license-2.3.5.zip
